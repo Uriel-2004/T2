@@ -1,0 +1,6 @@
+C:\Users\UPN\Desktop\BIBLIOTECA4\bin\Debug\BIBLIOTECA4.dll
+C:\Users\UPN\Desktop\BIBLIOTECA4\bin\Debug\BIBLIOTECA4.pdb
+C:\Users\UPN\Desktop\BIBLIOTECA4\obj\Debug\BIBLIOTECA4.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\BIBLIOTECA4\obj\Debug\BIBLIOTECA4.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\BIBLIOTECA4\obj\Debug\BIBLIOTECA4.dll
+C:\Users\UPN\Desktop\BIBLIOTECA4\obj\Debug\BIBLIOTECA4.pdb

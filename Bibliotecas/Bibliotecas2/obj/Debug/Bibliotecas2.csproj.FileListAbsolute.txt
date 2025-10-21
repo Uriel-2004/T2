@@ -1,0 +1,12 @@
+C:\Users\UPN\Desktop\Bibliotecas2\bin\Debug\Bibliotecas2.dll
+C:\Users\UPN\Desktop\Bibliotecas2\bin\Debug\Bibliotecas2.pdb
+C:\Users\UPN\Desktop\Bibliotecas2\obj\Debug\Bibliotecas2.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Bibliotecas2\obj\Debug\Bibliotecas2.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Bibliotecas2\obj\Debug\Bibliotecas2.dll
+C:\Users\UPN\Desktop\Bibliotecas2\obj\Debug\Bibliotecas2.pdb
+C:\Users\UPN\Desktop\T2\Bibliotecas2\bin\Debug\Bibliotecas2.dll
+C:\Users\UPN\Desktop\T2\Bibliotecas2\bin\Debug\Bibliotecas2.pdb
+C:\Users\UPN\Desktop\T2\Bibliotecas2\obj\Debug\Bibliotecas2.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\T2\Bibliotecas2\obj\Debug\Bibliotecas2.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\T2\Bibliotecas2\obj\Debug\Bibliotecas2.dll
+C:\Users\UPN\Desktop\T2\Bibliotecas2\obj\Debug\Bibliotecas2.pdb
