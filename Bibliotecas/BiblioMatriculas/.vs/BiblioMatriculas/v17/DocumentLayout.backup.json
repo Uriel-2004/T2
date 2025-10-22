@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\T2_Incompleto\\Bibliotecas\\BiblioMatriculas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85956DF7-7E23-4861-8698-89A04F0C0F60}|BiblioMatriculas.csproj|c:\\users\\user\\onedrive\\desktop\\t2_incompleto\\bibliotecas\\bibliomatriculas\\classmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85956DF7-7E23-4861-8698-89A04F0C0F60}|BiblioMatriculas.csproj|solutionrelative:classmatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassMatricula.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\T2_Incompleto\\Bibliotecas\\BiblioMatriculas\\ClassMatricula.cs",
+              "RelativeDocumentMoniker": "ClassMatricula.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\T2_Incompleto\\Bibliotecas\\BiblioMatriculas\\ClassMatricula.cs",
+              "RelativeToolTip": "ClassMatricula.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T23:52:40.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

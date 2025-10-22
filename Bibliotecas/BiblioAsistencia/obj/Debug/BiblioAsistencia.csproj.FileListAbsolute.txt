@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive\Desktop\T2_Incompleto\Bibliotecas\BiblioAsistencia\bin\Debug\BiblioAsistencia.dll
+C:\Users\User\OneDrive\Desktop\T2_Incompleto\Bibliotecas\BiblioAsistencia\bin\Debug\BiblioAsistencia.pdb
+C:\Users\User\OneDrive\Desktop\T2_Incompleto\Bibliotecas\BiblioAsistencia\obj\Debug\BiblioAsistencia.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\T2_Incompleto\Bibliotecas\BiblioAsistencia\obj\Debug\BiblioAsistencia.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\T2_Incompleto\Bibliotecas\BiblioAsistencia\obj\Debug\BiblioAsistencia.dll
+C:\Users\User\OneDrive\Desktop\T2_Incompleto\Bibliotecas\BiblioAsistencia\obj\Debug\BiblioAsistencia.pdb

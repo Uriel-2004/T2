@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive\Desktop\T2_Incompleto\Bibliotecas\BiblioMatriculas\bin\Debug\BiblioMatriculas.dll
+C:\Users\User\OneDrive\Desktop\T2_Incompleto\Bibliotecas\BiblioMatriculas\bin\Debug\BiblioMatriculas.pdb
+C:\Users\User\OneDrive\Desktop\T2_Incompleto\Bibliotecas\BiblioMatriculas\obj\Debug\BiblioMatriculas.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\T2_Incompleto\Bibliotecas\BiblioMatriculas\obj\Debug\BiblioMatriculas.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\T2_Incompleto\Bibliotecas\BiblioMatriculas\obj\Debug\BiblioMatriculas.dll
+C:\Users\User\OneDrive\Desktop\T2_Incompleto\Bibliotecas\BiblioMatriculas\obj\Debug\BiblioMatriculas.pdb
